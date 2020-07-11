@@ -1,0 +1,5 @@
+export const REG_USER_INFO = 'REG_USER_INFO';
+export const SET_LOGOUT_BUTTON = 'SET_LOGOUT_BUTTON';
+export const ADD_SEARCHBAR = 'ADD_SEARCHBAR';
+export const REMOVE_SEARCHBAR = 'REMOVE_SEARCHBAR';
+export const LOADING = 'LOADING';
